@@ -1,7 +1,0 @@
-{
-    "name": "ehs-scores",
-    "compatibility_date": "2025-07-04",
-    "assets": {
-        "directory": "./client"
-    }
-}
