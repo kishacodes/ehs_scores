@@ -1,0 +1,7 @@
+{
+    "name": "ehs_scores",
+    "compatibility_date": "2025-07-04",
+    "assets": {
+        "directory": "./scores"
+    }
+}
